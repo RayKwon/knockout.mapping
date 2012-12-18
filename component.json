@@ -1,0 +1,8 @@
+{
+  "name": "knockout.mapping",
+  "version": "2.3.5",
+  "main": "knockout.mapping.js",
+  "dependencies": {
+    "knockout": "~2.0.0"
+  }
+}
